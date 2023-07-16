@@ -11,7 +11,7 @@ This repository constains source code and demos on using SSVQE to solve hadronic
 ## Demos
 
 * SSVQE optimizations: [demo_ssvqe_basic.ipynb](https://github.com/wyqian1027/SSVQE_BLFQ_public/blob/main/demo_ssvqe_basics.ipynb)
-* SSVQE BLFQ observables: demo_ssvqe_blfq_observables.ipynb
+* SSVQE BLFQ observables: [demo_ssvqe_blfq_observables.ipynb](https://github.com/wyqian1027/SSVQE_BLFQ_public/blob/main/demo_ssvqe_blfq_observables.ipynb)
 
 ### Installation tips
 
